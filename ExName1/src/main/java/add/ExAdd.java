@@ -14,7 +14,7 @@ public class ExAdd {
 		// TODO Auto-generated method stub
 		ExAdd s=new ExAdd();
 		int x=s.add();
-		System.out.print("The Sum Is "+x);
+		System.out.print("The Is "+x);
 
 	}
 
