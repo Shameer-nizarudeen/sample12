@@ -15,6 +15,7 @@ public class ExAdd {
 		ExAdd s=new ExAdd();
 		int x=s.add();
 		System.out.print("The Is "+x);
+		System.out.print("shameer");
 
 	}
 
